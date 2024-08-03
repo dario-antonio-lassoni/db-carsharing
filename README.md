@@ -4,13 +4,12 @@
 
 The project's objective is to create a database designed to efficiently store and manage data supporting the functionalities of the information system of a large intelligent mobility company. Specifically, the company's clients can register on the company's website and interact to offer or use car sharing, car pooling, and ride sharing services. Following the original documentation, the data is divided within the database into six thematic areas:
 
-Registration area
-Car sharing area
-Car pooling area
-Ride sharing area
-Social area
-Analytics area
-Based on this division, a glossary was created before designing the E-R diagram. The glossary includes the main terms, a brief description, synonyms found within the specifications, and any relevant links.
+- Registration area
+- Car sharing area
+- Car pooling area
+- Ride sharing area
+- Social area
+- Analytics area
 
 For more details, see the [Relazione.pdf](https://github.com/dario-antonio-lassoni/db-carsharing/blob/main/Relazione.pdf) file (written in Italian). 
 __________________________________________________________________________________________________________
@@ -23,15 +22,11 @@ In particolare, i clienti dell’azienda possono iscriversi al sito web dell’a
 per offrire o usufruire di servizi di car sharing, car pooling e ride sharing.
 Seguendo la documentazione originale, i dati sono stati suddivisi all’interno del database in
 sei aree tematiche:
-• Area registrazione
-• Area car sharing
-• Area car pooling
-• Area ride sharing
-• Area social
-• Area analytics
-Seguendo tale suddivisione è stato realizzato, prima della progettazione del diagramma E-R,
-il glossario illustrato al paragrafo seguente. Al suo interno sono indicati i termini principali,
-una breve descrizione, dei sinonimi trovati all’interno delle specifiche ed eventuali
-collegamenti.
+- Area registrazione
+- Area car sharing
+- Area car pooling
+- Area ride sharing
+- Area social
+- Area analytics
 
 Per approfondire, visionare il file [Relazione.pdf](https://github.com/dario-antonio-lassoni/db-carsharing/blob/main/Relazione.pdf)
