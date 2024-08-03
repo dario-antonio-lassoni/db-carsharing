@@ -1,5 +1,7 @@
 # db-carsharing
 
+Progetto svolto per esame di Basi di dati, Ingegneria Informatica, [UNIPI](#https://github.com/Unipisa). 
+
 L’obiettivo del progetto è la creazione di un database che ha lo scopo di memorizzare e
 gestire efficientemente i dati a supporto delle funzionalità del sistema informativo di una
 grande impresa che si occupa di mobilità intelligente.
