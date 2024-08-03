@@ -1,7 +1,7 @@
 # db-carsharing
 
 (EN)
-Project carried out for the Database course exam, Computer Engineering, [UNIPI](https://github.com/Unipisa).
+Project developed for the Database course exam, Computer Engineering, [UNIPI](https://github.com/Unipisa).
 
 The project's objective is to create a database designed to efficiently store and manage data supporting the functionalities of the information system of a large intelligent mobility company. Specifically, the company's clients can register on the company's website and interact to offer or use car sharing, car pooling, and ride sharing services. Following the original documentation, the data is divided within the database into six thematic areas:
 
@@ -16,7 +16,7 @@ Based on this division, a glossary was created before designing the E-R diagram.
 For more details, see the "Relazione.pdf" file (written in Italian).
 __________________________________________________________________________________________________________
 (IT) 
-Progetto svolto per esame di Basi di dati, Ingegneria Informatica, [UNIPI](https://github.com/Unipisa). 
+Progetto sviluppato per l'esame del corso di Basi di dati, Ingegneria Informatica, [UNIPI](https://github.com/Unipisa). 
 
 L’obiettivo del progetto è la creazione di un database che ha lo scopo di memorizzare e
 gestire efficientemente i dati a supporto delle funzionalità del sistema informativo di una
